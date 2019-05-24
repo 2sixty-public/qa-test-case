@@ -1,9 +1,10 @@
 The QA coding challenge
 -------------------------
 
-We would like you to wtire a test harness suite in Java and Cucumber that follows the specification contained in the Gherkin feature file attached to this repository.
+We would like you to write a test harness suite in Java and Cucumber that follows the specification contained in the Gherkin feature file attached to this repository.
 
-**We expect you to provide us with a well written, clean code, and SOLID principle compliant test suite**
+**We would like you to provide us with a well written, clean code, and SOLID principle compliant test suite.
+Please also provide the instructions necessary to execute your solution.**
 
 Time
 ----
